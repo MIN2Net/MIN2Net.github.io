@@ -38,6 +38,13 @@ DOI: 10.1109%2FTBME.2021.3137184
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/IoBT-VISTEC//MIN2Net){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
+## 📌 PyTorch Version 🔁
+
+The MIN2Net architecture implemented in PyTorch is available on:
+
+👉 [AlphaGrad Repository](https://github.com/xydxdy/AlphaGrad) – mtl_bci/networks/MIN2Net.py
+
+
 ---
 
 
